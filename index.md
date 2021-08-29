@@ -2,9 +2,10 @@
 <html>
 <body>
 
-<h1>HTML Links</h1>
+<h1>Hi, everyone</h1>
 
-<p><a href="https://www.w3schools.com/">Visit W3Schools.com!</a></p>
+  <p>See my favorite food!</p>
+<p><a href="https://github.com/atifahnq/trial/blob/main/prep1">Food recommendation</a></p>
 
 </body>
 </html>
